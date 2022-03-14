@@ -22,8 +22,7 @@ namespace method_overoading_inheritance
         public static void Main()
         {
             addition add = new addition();
-            add.add(500, 600);
-            add.add(500, 600, 1000);
+            add.add(855, 800);
         }
     }
 }
